@@ -1,0 +1,6 @@
+{
+  "version": "1.0.35",
+  "download_url": "https://github.com/alexkasselman-cmd/clinic-app/releases/download/v1.0.35/ClinicApp.exe",
+  "notes": "Added PPE section, bug fixes.",
+  "mandatory": false
+}
